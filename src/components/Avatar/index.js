@@ -1,8 +1,6 @@
 import {
   Box,
   Image as ChkImage,
-  Text,
-  Link,
   SkeletonCircle,
   useColorModeValue,
 } from "@chakra-ui/react";
@@ -11,7 +9,7 @@ import { useEffect } from "react";
 import { avatarAnimation } from "@/config/animations";
 
 const AvatarImages = {
-  DarkMode: "/white_avatar.png",
+  DarkMode: "./white_avatar.png",
   LightMode: "./white_avatar.png",
 };
 

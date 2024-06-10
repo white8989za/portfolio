@@ -47,7 +47,7 @@ const FeaturedWorksSection = () => {
             idx={1}
             title="DIAMOND"
             description="DIAMOND Brand Products; Roof, Artificial wood, Board, Lightweight block, Service and Diamond Cafe with standard production will Complete your perfect home"
-            src="/works/knacx/dbp.png"
+            src="./works/knacx/dbp.png"
             height={{ base: "130px", md: "225px", "2xl": "300px" }}
             ctaUrl="https://dbp.co.th/"
             isMobile={isMobile}
@@ -58,7 +58,7 @@ const FeaturedWorksSection = () => {
           <FeaturedCard
             idx={2}
             title="TERMINUS"
-            src="/works/freewillfx/terminus.png"
+            src="./works/freewillfx/terminus.png"
             description="TERMINUS - Fleet Management System, Knowing just the location of your fleet vehicles doesn't provide enough tangible business benefits."
             height={{ base: "130px", md: "225px", "2xl": "300px" }}
             ctaUrl="http://www.freewillfx.com/terminus-advance-fleet-management-system/"
@@ -72,7 +72,7 @@ const FeaturedWorksSection = () => {
             idx={3}
             title="Fleetlink"
             description="FleetLink is a comprehensive platform offering Real-Time GPS Tracking, Driver and Vehicle Monitoring, and Dashboard Reporting."
-            src="/works/freewillfx/fleetlink.png"
+            src="./works/freewillfx/fleetlink.png"
             height={{ base: "130px", md: "225px", "2xl": "300px" }}
             ctaUrl="https://fleetlink.cipcloud.net/"
             objectPosition="right 20%"
@@ -85,7 +85,7 @@ const FeaturedWorksSection = () => {
             idx={4}
             title="Passenger"
             description="Cloudtime Passenger is a company website designed to monitor and check employee attendance. It offers tools for tracking when employees clock in and out, providing detailed attendance records and reports"
-            src="/works/freewillfx/passenger.png"
+            src="./works/freewillfx/passenger.png"
             height={{ base: "130px", md: "225px", "2xl": "300px" }}
             ctaUrl="https://passenger.cloudtime.cloud/"
             isMobile={isMobile}

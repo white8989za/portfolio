@@ -9,8 +9,8 @@ export const Experiences = {
     position: "Full Stack Developer",
     duration: "Nov 2021 - Present",
     logo: {
-      light: "/worked_at_logos/freewillfx/logo_fx-1-150x150.png",
-      dark: "/worked_at_logos/freewillfx/logo_fx-1-150x150.png",
+      light: "./worked_at_logos/freewillfx/logo_fx-1-150x150.png",
+      dark: "./worked_at_logos/freewillfx/logo_fx-1-150x150.png",
     },
     roles: [
       <>
@@ -37,8 +37,8 @@ export const Experiences = {
     position: "Software Engineer",
     duration: "Feb 2020 - Sep 2021",
     logo: {
-      light: "/worked_at_logos/knacx/logo-knacx.png",
-      dark: "/worked_at_logos/knacx/logo-knacx.png",
+      light: "./worked_at_logos/knacx/logo-knacx.png",
+      dark: "./worked_at_logos/knacx/logo-knacx.png",
     },
     roles: [
       <>Develop Frontend, Backend and Mobile programming.</>,
@@ -71,8 +71,8 @@ export const Experiences = {
     position: "Senior Software Engineer",
     duration: "Nov 2016 - Feb 2020",
     logo: {
-      light: "/worked_at_logos/computer-union/logo-computer-union.png",
-      dark: "/worked_at_logos/computer-union/logo-computer-union.png",
+      light: "./worked_at_logos/computer-union/logo-computer-union.png",
+      dark: "./worked_at_logos/computer-union/logo-computer-union.png",
     },
     roles: [
       <>Manage database and Website and Mobile programming.</>,

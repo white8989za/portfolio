@@ -16,7 +16,7 @@ const DetailSection = () => (
     >
       Places i’ve worked.
     </Heading>
-    <Text variant="description">
+    {/* <Text variant="description">
       Since 2016, had a privilege to work with several companies that enables me
       to hone my skills and talents. These companies will always have a special
       place in my heart. Currently I am working with{" "}
@@ -24,7 +24,7 @@ const DetailSection = () => (
         Deloitte
       </Link>
       .
-    </Text>
+    </Text> */}
 
     <ExperienceTab />
   </Stack>

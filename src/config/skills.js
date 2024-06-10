@@ -1,26 +1,16 @@
 import {
   SiReact,
   SiRedux,
-  SiStyledComponents,
   SiDocker,
-  SiGooglecloud,
-  SiCpanel,
   SiRancher,
-  SiGitlab,
   SiPostgresql,
-  SiMicrosoftsqlserver,
   SiMysql,
   SiMongodb,
   SiRedis,
-  SiSocketDotIo,
-  SiMaterialUi,
   SiFramer,
   SiGit,
   SiGnubash,
   SiVisualstudiocode,
-  SiUnity,
-  SiMicrosoft,
-  SiElectron,
   SiExpress,
   SiGo,
   SiLaravel,
@@ -33,10 +23,8 @@ import {
   SiTailwindcss,
   SiSlack,
 } from "react-icons/si";
-import { BsQuestionSquare } from "react-icons/bs";
 import { AiOutlineAntDesign } from "react-icons/ai";
 import { FaSourcetree } from "react-icons/fa";
-import { IoLogoPwa } from "react-icons/io5";
 
 export const Skills = {
   backend: [
