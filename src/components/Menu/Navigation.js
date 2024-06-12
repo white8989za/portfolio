@@ -91,7 +91,7 @@ const Navigation = () => {
               : "100%",
           top: !isOpen && isMobile && "-100vh",
           opacity: !isOpen && isMobile && "0",
-          left: isOpen && isMobile && 0,
+          left: isOpen && isMobile ? 0 : undefined,
         }}
         borderColor={isOpen && isMobile && borderColor}
         borderBottomWidth={isOpen && isMobile && "1px"}
