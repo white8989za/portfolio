@@ -8,14 +8,12 @@ import {
   Icon,
   SimpleGrid,
   Box,
-  Tooltip,
   Stack,
   useColorModeValue,
 } from "@chakra-ui/react";
 import {
   SiReact,
   SiNextdotjs,
-  SiDocker,
   SiExpress,
   SiMysql,
   SiNestjs,
@@ -65,15 +63,15 @@ const Detail = ({ onOpen }) => {
         <List spacing={3}>
           <ListItem fontSize="small" display="flex" alignItems="center">
             <ListIcon as={SiReact} color={emphasis} fontSize="2em" />
-            Typescript - React
+            ReactJS - Typescript
           </ListItem>
           <ListItem fontSize="small" display="flex" alignItems="center">
             <ListIcon as={SiExpress} color={emphasis} fontSize="2em" />
-            Node.js - Express
+            Express - NodeJS
           </ListItem>
           <ListItem fontSize="small" display="flex" alignItems="center">
             <ListIcon as={SiLaravel} color={emphasis} fontSize="2em" />
-            PHP - Laravel
+            Laravel - PHP
           </ListItem>
           <ListItem fontSize="small" display="flex" alignItems="center">
             <ListIcon as={SiMysql} color={emphasis} fontSize="2em" />
@@ -83,7 +81,7 @@ const Detail = ({ onOpen }) => {
         <List spacing={3}>
           <ListItem fontSize="small" display="flex" alignItems="center">
             <ListIcon as={SiNextdotjs} color={emphasis} fontSize="2em" />
-            Typescript -NextJS
+            NextJS - Typescript
           </ListItem>
           <ListItem fontSize="small" display="flex" alignItems="center">
             <ListIcon as={SiNestjs} color={emphasis} fontSize="2em" />

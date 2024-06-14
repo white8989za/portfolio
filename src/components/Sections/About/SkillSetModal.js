@@ -6,14 +6,12 @@ import {
   ModalHeader,
   ModalCloseButton,
   ModalBody,
-  ModalFooter,
   List,
   ListItem,
   ListIcon,
   SimpleGrid,
   useColorModeValue,
   Divider,
-  Text,
 } from "@chakra-ui/react";
 import styles from "./styles.module.css";
 import { Skills, splitSkills } from "@/config/skills";
