@@ -104,7 +104,7 @@ const Detail = ({ onOpen }) => {
             textAlign="left"
             onClick={onOpen}
           >
-            See my full arsenal <Icon as={IoMdOpen} />
+            See my full skills <Icon as={IoMdOpen} />
           </Text>
         </Box>
       </SimpleGrid>

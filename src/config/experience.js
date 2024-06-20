@@ -1,10 +1,8 @@
-import { Link } from "@chakra-ui/react";
-
 export const Experiences = {
   FreewillFx: {
     name: "Freewill FX",
     longName: "FREEWILL FX CO.,LTD.",
-    subDetail: "Advance Fleet Management",
+    subDetail: "Fleet management system",
     url: "http://www.freewillfx.com/",
     position: "Full Stack Developer",
     duration: "Nov 2021 - Present",
@@ -31,9 +29,9 @@ export const Experiences = {
   },
   Knacx: {
     name: "Knacx",
-    longName: "Scentregroup Limited AU",
-    subDetail: "via Prosource BPO",
-    url: "https://www.scentregroup.com/",
+    longName: "Knacx Corporation Limited",
+    subDetail: "Software house",
+    url: "https://www.knacx.com/",
     position: "Software Engineer",
     duration: "Feb 2020 - Sep 2021",
     logo: {
@@ -65,10 +63,10 @@ export const Experiences = {
   },
   ComputerUnion: {
     name: "Computer Union",
-    longName: "Blotocol Philippines",
-    subDetail: "formerly IVP Global Inc.",
-    url: "https://blotocol.com/",
-    position: "Senior Software Engineer",
+    longName: "Computer Union Co.,LTD.",
+    subDetail: "Distributor",
+    url: "https://www.cu.co.th/",
+    position: "Junior Software Engineer",
     duration: "Nov 2016 - Feb 2020",
     logo: {
       light: "./worked_at_logos/computer-union/logo-computer-union.png",
